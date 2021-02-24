@@ -56,3 +56,52 @@ body {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+//для страниц main_1_1_registration, order_5
+
+div {
+	font-family: Roboto;
+	font-style: normal;
+	font-size: 18px;
+	color: #4D3FA6;
+}
+#tx {
+	font-size: 24px;
+	text-align: center;
+	color: #4D3FA6;
+}
+#img {
+	margin: auto;
+	text-align: center;
+}
+.nn {
+	width: 221px;
+	height: 56px;
+	background: #4D3FA6;
+	margin: auto;
+	margin-top: 60px;
+	padding-top: 10px;
+	font-size: 22px;
+	text-align: center;
+	color: #FFFFFF;
+}
+#pr {
+	width: 260px;
+	height: 50px;
+	background: #ECD8F2;
+}
+#pr1 {
+	width: 260px;
+	height: 150px;
+	background: #ECD8F2;
+}
+#kv {
+	width: 17px;
+	height: 19px;
+	background: #ECD8F2;
+	margin: 30px;
+}
+#tx_m {
+	font-size: 10px;
+	padding-top: 30px;
+}
