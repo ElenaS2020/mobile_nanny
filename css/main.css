@@ -57,7 +57,7 @@ body {
 
 /*# sourceMappingURL=main.css.map */
 
-//для страниц main_1_1_registration, order_5
+/*Р”Р»СЏ СЃС‚СЂР°РЅРёС† main_1_1_registration, order_5*/
 
 div {
 	font-family: Roboto;
@@ -104,4 +104,7 @@ div {
 #tx_m {
 	font-size: 10px;
 	padding-top: 30px;
+}
+a {
+  color: #FFFFFF;
 }
